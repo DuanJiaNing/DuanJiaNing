@@ -4,6 +4,8 @@
 
 🎉 我开发了一个全新的手机 App，使用了 <b>Flutter+GRPC+Go</b> 开发，目前正在审核，相信很快就能在 [App Store](https://itunes.apple.com/app/id1541785145) 进行下载，欢迎大家支持。
 
+<img width="80px" style="border-radius:200px" src="https://raw.githubusercontent.com/DuanJiaNing/makeaplan_public/main/logo1.png"/><br/>
+
 <!--
 **DuanJiaNing/DuanJiaNing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

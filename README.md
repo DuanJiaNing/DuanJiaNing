@@ -1,4 +1,4 @@
-<img align='right' width="600px" src="https://raw.githubusercontent.com/DuanJiaNing/makeaplan_public/main/preview.png">
+<img align='right' width="550px" src="https://raw.githubusercontent.com/DuanJiaNing/makeaplan_public/main/preview.png">
 
 ### Hi there 👋
 

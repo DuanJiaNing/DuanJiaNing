@@ -18,6 +18,10 @@
 的【课程】，对 Shiro 的核心理念和使用进行了总结，欢迎大家支持。<br>
 如果你有兴趣购买，请使用这个优惠码: **m4fx6AQ9**，可获得一些优惠。<br>
 课程地址：[courses](https://www.lanqiao.cn/courses/2551)，代码仓库：[labexcoding_acs](https://github.com/DuanJiaNing/labexcoding_acs)
+<br>
+<br>
+
+🗿: [简书](https://www.jianshu.com/u/897bb1600def)、[CSDN](https://blog.csdn.net/aimeimeiTS)、aimeimeits@gmail.com
 
 
 <!--

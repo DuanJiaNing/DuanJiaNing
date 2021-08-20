@@ -1,5 +1,6 @@
 <img align='right' width="550px" src="https://raw.githubusercontent.com/DuanJiaNing/makeaplan_public/main/preview.png">
 
+
 ### Hi there 👋
 
 🎉 我开发了一个全新的手机 App <img width="30px" style="border-radius:200px" src="https://raw.githubusercontent.com/DuanJiaNing/makeaplan_public/main/logo1.png"/>
@@ -8,6 +9,16 @@
 <br>欢迎大家支持🎉 
 
 项目: [makeaplan](https://github.com/DuanJiaNing/makeaplan_public)
+
+<img align='right' width="230px" src="https://dn-simplecloud.shiyanlou.com/questions/uid8504-20200929-1601365738905">
+
+### 卖课啦：Shiro 与 Spring Boot 实现权限管理系统<img width="30px" style="border-radius:200px" src="https://avatars.githubusercontent.com/u/20266921?v=4"/>
+
+最近在蓝桥（实验楼）发布了一门使用 Shiro 和 Spring Boot 开发的权限管理系统<br>
+的【课程】，对 Shiro 的核心理念和使用进行了总结，欢迎大家支持。<br>
+如果你有兴趣购买，请使用这个优惠码: **m4fx6AQ9**，可获得一些优惠。<br>
+课程地址：[courses](https://www.lanqiao.cn/courses/2551)，代码仓库：[labexcoding_acs](https://github.com/DuanJiaNing/labexcoding_acs)
+
 
 <!--
 **DuanJiaNing/DuanJiaNing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

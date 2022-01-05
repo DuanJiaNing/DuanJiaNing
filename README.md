@@ -21,7 +21,7 @@
 <br>
 <br>
 
-🗿: [简书](https://www.jianshu.com/u/897bb1600def)、[CSDN](https://blog.csdn.net/aimeimeiTS)、aimeimeits@gmail.com
+🗿: [简书](https://www.jianshu.com/u/897bb1600def)、[CSDN](https://blog.csdn.net/aimeimeiTS)、aimeimeits@gmail.com、duan_jia_ning@163.com
 
 
 <!--

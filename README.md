@@ -12,7 +12,7 @@
 
 <img align='right' width="230px" hspace="50px" src="https://dn-simplecloud.shiyanlou.com/questions/uid8504-20200929-1601365738905">
 
-### 卖课啦：Shiro 与 Spring Boot 实现权限管理系统<img width="30px" style="border-radius:200px" src="https://avatars.githubusercontent.com/u/20266921?v=4"/>
+### Shiro 与 Spring Boot 实现权限管理系统<img width="30px" style="border-radius:200px" src="https://avatars.githubusercontent.com/u/20266921?v=4"/>
 
 最近在蓝桥（实验楼）发布了一门使用 Shiro 和 Spring Boot 开发的权限管理系统<br>
 的【课程】，对 Shiro 的核心理念和使用进行了总结，欢迎大家支持。<br>

@@ -22,13 +22,6 @@
 <br>
 
 
-### 🎉🎉 新项目
-
-slack 机器人的通用解决办法，用 slack payload 和自定义参数渲染预定义好的响应模版，完成与 slack 的交互。
-
-项目：[DuanJiaNing/slackbot](https://github.com/DuanJiaNing/slackbot)
-
-
 🗿: [简书](https://www.jianshu.com/u/897bb1600def)、[CSDN](https://blog.csdn.net/aimeimeiTS)、aimeimeits@gmail.com、duan_jia_ning@163.com
 
 <!--

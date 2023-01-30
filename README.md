@@ -22,7 +22,7 @@
 <br>
 
 
-🗿: [简书](https://www.jianshu.com/u/897bb1600def)、[CSDN](https://blog.csdn.net/aimeimeiTS)、aimeimeits@gmail.com、duan_jia_ning@163.com
+🗿: [简书](https://www.jianshu.com/u/897bb1600def)、[简历](https://docs.google.com/document/d/11TsAnH-yeQvF_2W1WU3Mc5gbtTs8ELdJ59z-jzyzBR8/edit?usp=sharing)、[CSDN](https://blog.csdn.net/aimeimeiTS)、aimeimeits@gmail.com、duan_jia_ning@163.com<br>
 
 <!--
 **DuanJiaNing/DuanJiaNing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

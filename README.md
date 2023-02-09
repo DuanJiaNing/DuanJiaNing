@@ -25,7 +25,7 @@
 🗿: 邮箱：duan_jia_ning@163.com、aimeimeits@gmail.com<br>
 <br>
 推荐项目：
-1. BlogSystem：计划制定工具类APP，使用 Flutter、gRPC、Go 开发。
+1. makeaplan_public：计划制定工具类APP，使用 Flutter、gRPC、Go 开发。
 2. Musicoco：本地音乐播放器，Android，Aidl，SQLite、RXJava。
 3. BlogSystem：博客系统，Java Web，SSM，Lucene。
 

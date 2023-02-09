@@ -21,7 +21,7 @@
 <br>
 
 🗿: 博客和简历：[简书](https://www.jianshu.com/u/897bb1600def)/[CSDN](https://blog.csdn.net/aimeimeiTS)、[简历](https://www.yuque.com/cafebabe-tlfkn/fauinf/ggz90nzbdy5prt8b)<br>
-🗿: 学习笔记：[Java和Android内容居多]()、[Golang相关](https://www.yuque.com/cafebabe-tlfkn/fauinf)<br>
+🗿: 学习笔记：[Java/Android相关](https://github.com/DuanJiaNing/Learning-materials)、[Golang相关](https://www.yuque.com/cafebabe-tlfkn/fauinf)<br>
 🗿: 邮箱：duan_jia_ning@163.com、aimeimeits@gmail.com<br>
 <br>
 推荐项目：
